@@ -1,0 +1,18 @@
+Modules
+-------
+1.Exam 
+2.Marking
+3.Profile 
+4.Report card 
+==============================================
+3.Profile
+----------
+Student-Parent-Teacher-Admin
+----------
+Create parent - student - tutor profile
+view edit profile 
+create student profile and edit 
+assign or invite an exam 
+create a exam 
+view booked / active exam 
+view exam and result history by student 

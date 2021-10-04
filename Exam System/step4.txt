@@ -1,0 +1,10 @@
+pages:
+Login Register
+profile page - Edit page 
+Own Student List - Edit 
+[Exam]
+[Create Exam]
+
+
+
+

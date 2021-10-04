@@ -1,0 +1,17 @@
+Name: Exam System by GagaNara
+===================================================================
+DESCRIPTION:
+------------
+System is to help student to do mock exams (similar to a particular exam which they are preparing for).
+System will have mock exams online created by Admin (or Tutor) then parents pay for the exams which
+are available to buy then they will assign the exam to their students to practice. It gets marked either by
+the system or manually (by a Tutor) a based on the question/exam type. The results/marks will feedback
+to students/parents. Teacher (who conduct private classes to a group of students), also can create exam
+and assign to own students who attend to the Teacher’s private class. It gets marked either by the system
+or Teacher based on the question/exam type. The results/marks feedback to students/parents.
+Students are young kids who may not have access to bank account so won’t be able to make payments,
+so parents (or tutor) can buy exams on students behalf
+• Student will do exam – online or offline.
+• Parent will buy exam on behalf of student and created student profile/account.
+• Teachers create Exam for own students only and create own student profile
+• Admin – owner of the system, Tutor (who provides Admin Exam questions/papers)

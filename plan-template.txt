@@ -1,0 +1,12 @@
+1.step:
+name
+description
+simple business
+2.step:
+Quick Look
+All feature
+3.step:
+Deloping the backend
+Developing the api
+4.step
+Working for UI/UX
