@@ -1,5 +1,0 @@
-show stack 
-delete stack
-
-show stack option
-add stack option
