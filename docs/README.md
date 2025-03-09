@@ -4,20 +4,20 @@ This document provides a comprehensive list of JavaScript concepts, categorized 
 
 ---
 
-## **1. Basics of JavaScript**
-- **Syntax and Structure**
-- Variables (`var`, `let`, `const`)
-- Data Types:
+## **[x] 1. Basics of JavaScript**
+- [x] **Syntax and Structure**
+- [x]  Variables (`var`, `let`, `const`)
+- [x]  Data Types:
   - Primitive Types: `String`, `Number`, `Boolean`, `null`, `undefined`, `BigInt`, `Symbol`
   - Non-Primitive Types: `Object`, `Array`, `Function`
-- Operators:
+- [x]  Operators:
   - Arithmetic (`+`, `-`, `*`, `/`, `%`, `**`)
   - Comparison (`==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`)
   - Logical (`&&`, `||`, `!`)
   - Assignment (`=`, `+=`, `-=`, `*=`, `/=`)
   - Ternary Operator (`? :`)
-- Type Coercion and Type Conversion
-- Comments (`//`, `/* */`)
+- [x] Type Coercion and Type Conversion
+- [x]  Comments (`//`, `/* */`)
 
 ---
 
@@ -104,10 +104,10 @@ This document provides a comprehensive list of JavaScript concepts, categorized 
 
 ---
 
-## **8. Error Handling**
+## **[x] 8. Error Handling**
 - `try`, `catch`, `finally`
-- Throwing Errors (`throw`)
-- Custom Errors
+- [x] Throwing Errors (`throw`)
+- [x] Custom Errors
 
 ---
 
