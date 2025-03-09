@@ -4,7 +4,7 @@ This document provides a comprehensive list of JavaScript concepts, categorized 
 
 ---
 
-## **[x] 1. Basics of JavaScript**
+## ** [x]  1. Basics of JavaScript**
 - [x] **Syntax and Structure**
 - [x]  Variables (`var`, `let`, `const`)
 - [x]  Data Types:
