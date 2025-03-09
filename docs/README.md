@@ -36,11 +36,11 @@ This document provides a comprehensive list of JavaScript concepts, categorized 
 
 ## **3. Functions**
 
-- Function Declaration vs Function Expression
-- Arrow Functions (`=>`)
-- Parameters and Arguments
-- Default Parameters
-- Rest Parameters (`...args`)
+- [x] Function Declaration vs Function Expression
+- [x] Arrow Functions (`=>`)
+- [x] Parameters and Arguments
+- [x] Default Parameters
+- [x] Rest Parameters (`...args`)
 - Higher-Order Functions
 - Callback Functions
 - Immediately Invoked Function Expressions (IIFE)
