@@ -51,8 +51,8 @@ This document provides a comprehensive list of JavaScript concepts, categorized 
 
 ## **4. Objects**
 
-- Object Literals
-- Properties and Methods
+- [x] Object Literals
+- [x] Properties and Methods
 - `this` Keyword
 - Object Constructors
 - Prototypes and Prototypal Inheritance
